@@ -87,8 +87,8 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :  ""
-  researchgate     :  ""
+  email            :  
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : ""
+  impactstory      : 
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/athenamelia/"
-  orcid            : ""
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : ""
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : 
   vine             :
   weibo            :
   xing             :

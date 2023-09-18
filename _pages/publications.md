@@ -15,7 +15,7 @@ Schaubel DE, **Tran AH**, Abt PL, Potluri VS, Goldberg DS, Reese PP.
 
 [**Using Physics-Informed Regularization To Improve Extrapolation Capabilities Of Neural Networks.**](https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_19.pdf)  
 Machine Learning and the Physical Sciences Workshop, Neural Information Processing Systems (NeurIPS) 2021.  
-Davini D\*, Samineni B\*, Thomas B\*, **Tran AH\* **, Zhu C\*, Ha K, Dasika G, White L.
+Davini D\*, Samineni B\*, Thomas B\*, **{Tran AH\*}**, Zhu C\*, Ha K, Dasika G, White L.
 
 Informal Manuscript
 ---	
