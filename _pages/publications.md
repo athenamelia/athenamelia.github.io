@@ -5,12 +5,35 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Peer-Reviewed Publications
+---	
 
-{% include base_path %}
+[**Five-Year Allograft Survival for Recipients of Kidney Transplants From Hepatitis C Virus Infected vs Uninfected Deceased Donors in the Direct-Acting Antiviral Therapy Era.**](https://jamanetwork.com/journals/jama/fullarticle/2795744)  
+Journal of American Medical Association (JAMA) 2022;328(11):1102–1104.
+Schaubel DE, **Tran AH**, Abt PL, Potluri VS, Goldberg DS, Reese PP. 
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+[**Using physics-informed regularization to improve extrapolation capabilities of neural networks.**](https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_19.pdf)  
+Machine Learning and the Physical Sciences Workshop, Neural Information Processing Systems (NeurIPS) 2021.
+Davini D\*, Samineni B\*, Thomas B\*, **Tran AH\{*} **, Zhu C\*, Ha K, Dasika G, White L.
+
+Informal Manuscript
+---	
+
+[**Statistical Analysis of the Association between Bilirubin and Survival in Primary Biliary Cirrhosis.**](https://ida.mtholyoke.edu/handle/10166/6298)  
+Mount Holyoke College Mathematics and Statistics Department Senior Thesis. May 2021.
+**Tran AH**.
+
+
+Working Papers
+---
+**Evaluating a facility-profiling metric based on survival probability: Application to U.S. transplant centers.**
+**AH Tran**, PP Reese, DE Schaubel.
+
+**Prognostic score-based methods for estimating center effects based on survival probability: Application to postkidney transplant survival.**
+Y Lee, PP Reese, **AH Tran**, DE Schaubel. 
+
+**Multiple Listing In Kidney Transplantation Following Implementation Of The Concentric Circle Kidney Allocation Policy.**
+VS Potluri, **AH Tran**, N Kye, N Al Haddad, S Tandukar, TB Dunn, P Reese, DE Schaubel. 
+
+\* indicates co-first authorship
