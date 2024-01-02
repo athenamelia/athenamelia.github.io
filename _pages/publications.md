@@ -21,8 +21,7 @@ Informal Manuscript
 ---	
 
 [**Statistical Analysis of the Association between Bilirubin and Survival in Primary Biliary Cirrhosis.**](https://ida.mtholyoke.edu/handle/10166/6298)  
-Mount Holyoke College Mathematics and Statistics Department Senior Thesis. May 2021.  
-**Tran AH**.
+Mount Holyoke College Mathematics and Statistics Department Senior Thesis. May 2021. **Tran AH**.
 
 
 Working Papers
@@ -30,7 +29,7 @@ Working Papers
 **Evaluating a facility-profiling metric based on survival probability: Application to U.S. transplant centers**.  
 **AH Tran**, PP Reese, DE Schaubel.
 
-**Prognostic score-based methods for estimating center effects based on survival probability: Application to postkidney transplant survival**. 
+**Prognostic score-based methods for estimating center effects based on survival probability: Application to postkidney transplant survival**.  
 Y Lee, PP Reese, **AH Tran**, DE Schaubel. 
 
 **Multiple listing in kidney transplantation following implementation of the concentric circle kidney allocation policy**. 
