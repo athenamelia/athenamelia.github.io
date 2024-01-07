@@ -39,7 +39,7 @@ mentorship of [Dr. Audrey Mauguen](https://www.mskcc.org/profile/audrey-mauguen)
 
 Intuitively, the differences in the estimated hazard ratios are due to different levels of information considered: the Cox PH model uses the *baseline* values of bilirubin; time-dependent Cox uses the *current* values of bilirubin by accounting for its changes overtime; the Joint Model captures the *internal progression* of bilirubin through its measurement errors. In this project, I performed data manipulation in R, produced data visualizations, and conducted statistical analyses for survival comparisons. I presented my work at the MSK departmental symposium, the MHC Learning through Applications symposium, and the Electronic Undergraduate Statistics Research ([eUSR](https://www.causeweb.org/usproc/eusrc/2020/virtual-posters/13)) Conference 2020, for which I was awarded the [Best Video Presentation](https://www.causeweb.org/usproc/eusr/video-competition). 
 
-During my senior year, I completed this project as my honors [thesis](http://academicpages.github.io/files/_talk/Tran Thesis Presentation.pdf) under the supervision of Dr. Marie Ozanne, for which I was awarded the highest honors. 
+During my senior year, I completed this project as my honors [thesis](https://github.com/athenamelia/athenamelia.github.io/tree/master/files/_talk/Tran Thesis Presentation.pdf) under the supervision of Dr. Marie Ozanne, for which I was awarded the highest honors. 
 
 Developing hierarchical Archimedean copula models for dependent data
 ---	
