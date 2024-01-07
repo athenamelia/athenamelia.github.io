@@ -1,5 +1,5 @@
 ---
-#layout: archive
+layout: archive
 title: "Selected presentations"
 permalink: /talks/
 author_profile: true
