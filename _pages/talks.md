@@ -23,7 +23,7 @@ _Electronic Undergraduate Statistics Research Conference_, November 2020
 Contributed Posters
 ---	
 
-[**Evaluating a Facility-Profiling Metric based on Survival Probability: Application to U.S. Transplant Centers.**](/files/_talk/Tran_WSDS.pdf)   
+[**Evaluating a Facility-Profiling Metric based on Survival Probability: Application to U.S. Transplant Centers.**](http://athenamelia.github.io/files/_talk/Tran_WSDS.pdf)   
 _Women in Statistics and Data Science_, Bellevue, WA, October 2023
 
 [**Multiple listing in kidney transplantation following implementation of the concentric circle kidney allocation policy.**](https://github.com/athenamelia/athenamelia.github.io/tree/master/files/_talk/ATC 2023 Multiple Listing.pdf)   
