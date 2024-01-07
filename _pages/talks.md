@@ -17,14 +17,8 @@ _Regeneron Pharmaceuticals Inc._, Tarrytown, NY, August 2022
 [**Using physics-informed regularization to improve extrapolation capabilities of neural networks**](/files/_talk/JMM Poster.pdf).   
 _Joint Mathematics Meetings_, April 2022
 
-[**Using physics-informed regularization to improve extrapolation capabilities of neural networks**](/files/_talk/AMD RIPS Final Presentation.pdf).   
-_Institute for Pure and Applied Mathematics_, Los Angeles, CA, August 2021
-
-**Association between bilirubin and survival in Primary Biliary Cirrhosis**.   
+[**Association between bilirubin and survival in Primary Biliary Cirrhosis**](https://www.causeweb.org/usproc/eusrc/2020/virtual-posters/13).   
 _Electronic Undergraduate Statistics Research Conference_, November 2020
-
-**Association between bilirubin and survival in Primary Biliary Cirrhosis**.   
-_Memorial Sloan Kettering Cancer Center_, New York, NY, August 2020
 
 Contributed Posters
 ---	
