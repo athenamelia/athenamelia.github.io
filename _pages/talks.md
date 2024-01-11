@@ -11,7 +11,7 @@ Contributed Talks
 **Evaluating a Facility-Profiling Metric based on Survival Probability: Application to U.S. Transplant Centers**.   
 _Women in Statistics and Data Science_, Bellevue, WA, October 2023
 
-**Quantifying Physical Activity with Accelerometry Data: Application to Observational Study**.   
+[**Quantifying Physical Activity with Accelerometry Data: Application to Observational Study**](/files/talk/Tran_GNE_slides.pdf).   
 _Regeneron Pharmaceuticals Inc._, Tarrytown, NY, August 2022
 
 [**Using physics-informed regularization to improve extrapolation capabilities of neural networks**](/files/talk/JMM Poster.pdf).   
