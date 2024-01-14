@@ -7,7 +7,7 @@ author_profile: yes
 
 Hematology and ophthalmology projects, and more!
 ---	
-Currently, I work as a data scientist at Genentech, a member of [Roche](https://www.roche.com/). I provide statistical support to hematology and ophthalmology studies through statistical analysis and computation. My current projects include:
+Currently, I work as a data scientist at Genentech, a member of [Roche](https://www.roche.com/) where I provide statistical analysis and computational support to hematology and ophthalmology studies. My current projects include:
 
 - Phase Ib/II clinical trial to compare Mosunetuzumab in combination with Tiragolumab with or without Atezolizumab in patients with relapsed or refractory B-cell non-hodgkin lymphoma (NHL)
 - Phase III clinical trial to study Satralizumab in participants with moderate-to-severe thyroid eye disease (TED)
