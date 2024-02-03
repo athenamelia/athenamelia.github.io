@@ -9,14 +9,12 @@ Hematology, ophthalmology, and more!
 ---	
 Currently at Genentech, I provide statistical analysis and computational support to hematology and ophthalmology studies. My past and current projects include:
 
-- Phase Ib clinical trial to study Mosunetuzumab or Glofitamab in combination with CC-200 and CC-99282 in patients with B-cell non-hodgkin lymphoma (NHL)
 - Phase Ib/II clinical trial to compare Mosunetuzumab in combination with Tiragolumab with or without Atezolizumab in patients with relapsed or refractory B-cell non-hodgkin lymphoma (NHL)
 - Phase III clinical trial to study Satralizumab in participants with moderate-to-severe thyroid eye disease (TED)
 
 Besides these therapeutic molecules, I also support computational tool and study design development through collaboration. In particular:
 
 - With [Daniel Sjoberg](https://www.danieldsjoberg.com/): I co-develop the [admiraldiscovery](https://pharmaverse.github.io/admiraldiscovery/index.html) website, which documents the functionality of the **admiral** family of packages, a collection of open-source R packages for clinical reporting as part of the [pharmaverse movement](https://pharmaverse.org/) across biotech/pharmaceutical industry.
-- With [Matt Secrest](https://mattsecrest.com/): I conduct simulation studies which employ cloning and inverse probability censoring weighting ([IPCW](https://pubmed.ncbi.nlm.nih.gov/10985216/)) techniques to emulate a target trial through EMR data to support oncology trial design.  
 
 Estimating causal effects of organ quality and health policies in kidney transplants
 ---	
