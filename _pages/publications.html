@@ -11,7 +11,7 @@
 
 
 
-<title>Research</title>
+<title>Publications</title>
 
 <script>// Pandoc 2.9 adds attributes on both header and div. We remove the former (to
 // be compatible with the behavior of Pandoc < 2.8).
@@ -348,167 +348,52 @@ display: none;
 
 
 
-<h1 class="title toc-ignore">Research</h1>
+<h1 class="title toc-ignore">Publications</h1>
 
 </div>
 
 
-<div id="hematology-ophthalmology-and-more" class="section level2">
-<h2>Hematology, ophthalmology, and more!</h2>
-<p>Currently at Genentech, I provide statistical analysis and
-computational support to hematology and ophthalmology studies. My past
-and current projects include:</p>
-<ul>
-<li>Phase Ib clinical trial to study Mosunetuzumab or Glofitamab in
-combination with CC-200 and CC-99282 in patients with B-cell non-hodgkin
-lymphoma (NHL)</li>
-<li>Phase Ib/II clinical trial to compare Mosunetuzumab in combination
-with Tiragolumab with or without Atezolizumab in patients with relapsed
-or refractory B-cell non-hodgkin lymphoma (NHL)</li>
-<li>Phase III clinical trial to study Satralizumab in participants with
-moderate-to-severe thyroid eye disease (TED)</li>
-</ul>
-<p>Besides these therapeutic molecules, I also support computational
-tool and study design development through collaboration. In
-particular:</p>
-<ul>
-<li>With <a href="https://www.danieldsjoberg.com/">Daniel Sjoberg</a>: I
-co-develop the <a href="https://pharmaverse.github.io/admiraldiscovery/index.html">admiraldiscovery</a>
-website, which documents the functionality of the
-<strong>admiral</strong> family of packages, a collection of open-source
-R packages for clinical reporting as part of the <a href="https://pharmaverse.org/">pharmaverse movement</a> across
-biotech/pharmaceutical industry.</li>
-<li>With <a href="https://mattsecrest.com/">Matt Secrest</a>: I conduct
-simulation studies which employ cloning and inverse probability
-censoring weighting (<a href="https://pubmed.ncbi.nlm.nih.gov/10985216/">IPCW</a>) techniques to
-emulate a target trial through EMR data to support oncology trial
-design.</li>
-</ul>
+<div id="peer-reviewed-publications" class="section level2">
+<h2>Peer-Reviewed Publications</h2>
+<p><a href="https://jamanetwork.com/journals/jama/fullarticle/2795744"><strong>Five-Year
+Allograft Survival for Recipients of Kidney Transplants From Hepatitis C
+Virus Infected vs Uninfected Deceased Donors in the Direct-Acting
+Antiviral Therapy Era.</strong></a><br />
+Journal of American Medical Association (JAMA)
+2022;328(11):1102–1104.<br />
+Schaubel DE, <strong>Tran AH</strong>, Abt PL, Potluri VS, Goldberg DS,
+Reese PP.</p>
+<p><a href="https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_19.pdf"><strong>Using
+Physics-Informed Regularization To Improve Extrapolation Capabilities Of
+Neural Networks.</strong></a><br />
+Machine Learning and the Physical Sciences Workshop, Neural Information
+Processing Systems (NeurIPS) 2021.<br />
+Davini D*, Samineni B*, Thomas B*, <strong>Tran AH*,</strong> Zhu C*, Ha
+K, Dasika G, White L.</p>
 </div>
-<div id="estimating-causal-effects-of-organ-quality-and-health-policies-in-kidney-transplants" class="section level2">
-<h2>Estimating causal effects of organ quality and health policies in
-kidney transplants</h2>
-<p>I worked as a research assistant to <a href="https://www.dbei.med.upenn.edu/bio/douglas-e-schaubel-phd">Dr. Douglas
-Schaubel</a> at the University of Pennsylvania, conducting research in
-the intersection of survival analysis and causal inference, with
-applications to kidney diseases. In these projects, I performed data
-processing and conducted statistical analyses to: measure causal effects
-of transplant centers, investigate the impact of multiple waitlisting on
-survival, and evaluate a novel prognostic-score based weighting method
-for transplant center evaluation.</p>
-<p>One project was to evaluate the impact of receiving organs from
-deceased-donors with Hepatitis C Virus (HCV) positive on post-transplant
-survival (<a href="https://jamanetwork.com/journals/jama/article-abstract/2795744">Schaubel
-et al., 2022</a>). Patients are unweighted in the HCV- group. To address
-confounding in the HCV+ group, we derived a two-dimensional prognostic
-score, one for donors risk and one for recipients risk. The
-donor-associated risk score is the continuous kidney donor risk index
-(<a href="https://journals.lww.com/transplantjournal/Fulltext/2009/07270/A_Comprehensive_Risk_Quantification_Score_for.13.aspx">KDRI</a>)
-while the recipient-associated risk is the <a href="https://academic.oup.com/biomet/article/95/2/481/230183">prognostic
-score</a> estimated from the center-stratified Cox model with recipient
-characteristics. The two-dimensional score is then used to classify
-patients into risk classes, from which we obtained individual weights to
-generate weighted Nelson-Aalen survival curves and log-rank tests.</p>
+<div id="informal-manuscript" class="section level2">
+<h2>Informal Manuscript</h2>
+<p><a href="https://ida.mtholyoke.edu/handle/10166/6298"><strong>Statistical
+Analysis of the Association between Bilirubin and Survival in Primary
+Biliary Cirrhosis.</strong></a><br />
+Mount Holyoke College Mathematics and Statistics Department Senior
+Thesis. May 2021. <strong>Tran AH</strong>.</p>
 </div>
-<div id="quantifying-physical-activity-through-accelerometry-data-from-wearable-devices" class="section level2">
-<h2>Quantifying physical activity through accelerometry data from
-wearable devices</h2>
-<p>During my internship at Regeneron, I worked with <a href="https://link.springer.com/article/10.1007/s12561-018-9227-2">accelerometry
-data</a> from wearable devices under the mentorship of <a href="https://scholar.google.com/citations?user=5X-it4IAAAAJ">Dr. Jacek
-Urbanek</a> and <a href="https://www.researchgate.net/scientific-contributions/Debra-A-Goldman-59078225/publications/2">Debra
-McIntyre</a>. My project focused on quantifying physical activity
-characteristics of minute-level accelerometry data from National Health
-and Nutrition Examination Survey (NHANES) and Regeneron clinical trials
-with the <a href="https://cran.r-project.org/web/packages/arctools/arctools.pdf">arctools</a>
-package. We investigated NHANES as a study sample with the goal to
-create a pipeline for digital biomarker development for national
-population.</p>
-<p>Wearable devices provide objective measurements of physical activity
-through an accelerometer in gravitational units. Raw data is collected
-in a 3D time series format, along three orthogonal axes corresponding to
-the device’s reference frame of up-down, left-right, and
-backward-downward at sub-second level. These raw data is then aggregated
-into minute-level data and summarized by open-source reproducible
-metrics in non-overlapping time windows: Monitor Independent Movement
-Summary (MIMS), Euclidean Norm Minus One (ENMO), and Vector Magnitude
-Count (VMC), etc. In this project, I quantified minute-level
-accelerometry data from NHANES on MIMS scale for physical activity
-summaries and performed <a href="https://pubmed.ncbi.nlm.nih.gov/35867392/">harmonization
-mapping</a> on internal clinical data for comparison purposes.</p>
-</div>
-<div id="simulating-wave-propagation-with-physics-informed-neural-networks-models" class="section level2">
-<h2>Simulating wave propagation with physics-informed neural networks
-models</h2>
-<p>In summer 2021, I had the opportunity to participate in the <a href="https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2024-los-angeles/">RIPS</a>
-program at Institute for Pure and Applied Mathematics (<a href="https://www.ipam.ucla.edu/">IPAM</a>), an NSF Math Institute at
-UCLA. I was assigned in a team of five working under the supervision of
-<a href="https://scholar.google.com/citations?user=Q_ieoIsAAAAJ&amp;hl=en">Dr. Laurent
-White</a> and <a href="https://kyung-ha.gitlab.io/website/">Dr. Kyung
-Ha</a> to develop physics-informed neural networks (<a href="https://towardsdatascience.com/physics-informed-neural-networks-pinns-an-intuitive-guide-fff138069563?gi=5ad447efc0df">PINN</a>)
-to simulate wave propagation with computational efficiency. Our project
-was sponsored by Advanced Micro Devices Inc. (<a href="https://www.amd.com/en.html">AMD</a>).</p>
-<p>Machine learning surrogate models are widely used for engineering
-applications thanks to the attractive computational efficiency property.
-However, these models suffer from a lack of extrapolation accuracy. To
-design an optimal network architecture to simulate wave, we embedded
-physics constraints, ie. PDEs of the wave equation and initial/boundary
-conditions, into the loss function for regularization. In addition, we
-sampled unlabeled input values for model training to reduce the cost of
-data acquisition, and extrapolated in time for acoustic wave and in
-space from different source locations. We presented our work at the RIPS
-symposium, the AMD headquarter in Santa Clara, and the Joint Mathematics
-Meeting 2021.</p>
-</div>
-<div id="evaluating-the-performance-of-joint-model-for-longitudinal-and-survival-data" class="section level2">
-<h2>Evaluating the performance of joint model for longitudinal and
-survival data</h2>
-<p>In summer 2020, I had the opportunity to conduct research through the
-<a href="https://www.mskcc.org/departments/epidemiology-biostatistics/educational-opportunities/quantitative-sciences-summer-undergraduate-research-experience-qsure">QSURE</a>
-program at <a href="https://www.mskcc.org/departments/epidemiology-biostatistics">Memorial
-Sloan Kettering Cancer Center</a> under the mentorship of <a href="https://www.mskcc.org/profile/audrey-mauguen">Dr. Audrey
-Mauguen</a>. Our goal was to investigate the association between
-biomarker serum bilirubin and overall survival in Primary Biliary
-Cirrhosis (PBC) with the Cox Proportional Hazards model, time-dependent
-Cox model, and Joint Model for longitudinal and time-to-event data. We
-then compared the estimated hazards ratios from these approaches and
-evaluated the benefits and drawbacks of the Joint Models.</p>
-<p>Intuitively, the differences in the estimated hazard ratios are due
-to different levels of information considered: Cox PH model uses the
-<em>baseline</em> values of bilirubin; time-dependent Cox uses the
-<em>current</em> values of bilirubin by accounting for its changes
-overtime; the Joint Model captures the <em>internal progression</em> of
-bilirubin through its measurement errors. In this project, I performed
-data manipulation in R, produced data visualizations, and conducted
-statistical analyses for survival comparisons. I presented my work at
-the MSK departmental symposium, the MHC Learning through Applications
-symposium, and the Electronic Undergraduate Statistics Research (<a href="https://www.causeweb.org/usproc/eusrc/2020/virtual-posters/13">eUSR</a>)
-Conference 2020, for which I was awarded the <a href="https://www.causeweb.org/usproc/eusr/video-competition">Best Video
-Presentation</a>.</p>
-<p>During my senior year, I completed this project as my <a href="/files/talk/Tran%20Thesis%20Presentation.pdf">honors thesis</a>
-under the supervision of Dr. Marie Ozanne, for which I was awarded the
-highest honors.</p>
-</div>
-<div id="developing-hierarchical-archimedean-copula-models-for-dependent-data" class="section level2">
-<h2>Developing hierarchical Archimedean copula models for dependent
-data</h2>
-<p>In summer 2019, I conducted my first statistical research in copula
-under the supervision of <a href="https://www.umass.edu/public-health-sciences/about/directory/evan-l-ray">Dr. Evan
-Ray</a> at Mount Holyoke College. <a href="https://en.wikipedia.org/wiki/Copula_(probability_theory)">Copula</a>
-is a joint function used to measure the dependency between random
-bivariates and is widely used in time series modeling. The goal of the
-project was to construct Archimedean copula trees with different nesting
-structures to develop an Archimedean random forest.</p>
-<p>Intuitively, the more correlated covariates are grouped closer to the
-bottom of a nested copula tree. However, we can introduce flexibility
-into the tree structure by varying the number of covariates in each
-node, or assigning different copula families, ie. Frank, Gumbel, Clay,
-etc. for each node depending on its correlation property. In this
-project, I contributed to the <em>ncopula</em> package in R, which
-calculates the probability density function and cumulative distribution
-function to estimate parameters of nested Archimedean copulas with
-maximum likelihood estimation. The package also includes supplementary
-functions for mathematical transformations and unit tests for estimation
-stability.</p>
+<div id="working-papers" class="section level2">
+<h2>Working Papers</h2>
+<p><strong>Evaluating a facility-profiling metric based on survival
+probability: Application to U.S. transplant centers</strong>.<br />
+<strong>AH Tran</strong>, PP Reese, DE Schaubel.</p>
+<p><strong>Prognostic score-based methods for estimating center effects
+based on survival probability: Application to postkidney transplant
+survival</strong>.<br />
+Y Lee, PP Reese, <strong>AH Tran</strong>, DE Schaubel.</p>
+<p><strong>Multiple listing in kidney transplantation following
+implementation of the concentric circle kidney allocation
+policy</strong>.<br />
+VS Potluri, <strong>AH Tran</strong>, N Kye, N Al Haddad, S Tandukar, TB
+Dunn, P Reese, DE Schaubel.</p>
+<p>* <em>indicates co-first authorship</em></p>
 </div>
 
 

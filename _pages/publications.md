@@ -32,7 +32,7 @@ Working Papers
 **Prognostic score-based methods for estimating center effects based on survival probability: Application to postkidney transplant survival**.  
 Y Lee, PP Reese, **AH Tran**, DE Schaubel. 
 
-**Multiple listing in kidney transplantation following implementation of the concentric circle kidney allocation policy**. 
+**Multiple listing in kidney transplantation following implementation of the concentric circle kidney allocation policy**.  
 VS Potluri, **AH Tran**, N Kye, N Al Haddad, S Tandukar, TB Dunn, P Reese, DE Schaubel. 
 
 \* _indicates co-first authorship_

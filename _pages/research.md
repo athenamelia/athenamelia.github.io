@@ -5,22 +5,22 @@ permalink: /research/
 author_profile: yes
 ---
 
-Hematology and ophthalmology projects, and more!
+Hematology, ophthalmology, and more!
 ---	
-Currently, I work as a data scientist at Genentech, a member of [Roche](https://www.roche.com/) where I provide statistical analysis and computational support to hematology and ophthalmology studies. My current projects include:
+Currently at Genentech, I provide statistical analysis and computational support to hematology and ophthalmology studies. My past and current projects include:
 
+- Phase Ib clinical trial to study Mosunetuzumab or Glofitamab in combination with CC-200 and CC-99282 in patients with B-cell non-hodgkin lymphoma (NHL)
 - Phase Ib/II clinical trial to compare Mosunetuzumab in combination with Tiragolumab with or without Atezolizumab in patients with relapsed or refractory B-cell non-hodgkin lymphoma (NHL)
 - Phase III clinical trial to study Satralizumab in participants with moderate-to-severe thyroid eye disease (TED)
 
-Besides these therapeutic molecules, I also support new computational tool and study design development through cross-departmental collaboration. In particular:
+Besides these therapeutic molecules, I also support computational tool and study design development through collaboration. In particular:
 
-- With [Daniel Sjoberg](https://www.danieldsjoberg.com/), I co-develop the [admiral discovery](https://pharmaverse.github.io/admiraldiscovery/index.html) website, which documents the functionality of the **admiral** family of packages, a collection of open-source R packages for clinical reporting as part of the [pharmaverse movement](https://pharmaverse.org/) across biotech/pharmaceutical industry.
+- With [Daniel Sjoberg](https://www.danieldsjoberg.com/): I co-develop the [admiraldiscovery](https://pharmaverse.github.io/admiraldiscovery/index.html) website, which documents the functionality of the **admiral** family of packages, a collection of open-source R packages for clinical reporting as part of the [pharmaverse movement](https://pharmaverse.org/) across biotech/pharmaceutical industry.
+- With [Matt Secrest](https://mattsecrest.com/): I conduct simulation studies which employ cloning and inverse probability censoring weighting ([IPCW](https://pubmed.ncbi.nlm.nih.gov/10985216/)) techniques to emulate a target trial through EMR data to support oncology trial design.  
 
-Starting 2024, I co-host an internal North America Data Science Forum (NADF) series where my colleagues from Genentech/SSF and Roche/Mississauga share statistical work experience across Product Development. <!-- Topics include but are not limited to: programming practice, integrated use of real-world evidence, missing data handling, and filing procedure, etc. -->   
-
-Estimating causal impact of organ quality and health policies in kidney transplants
+Estimating causal effects of organ quality and health policies in kidney transplants
 ---	
-I worked as a graduate research assistant to [Dr. Douglas Schaubel](https://www.dbei.med.upenn.edu/bio/douglas-e-schaubel-phd) at the University of Pennsylvania, conducting research in the intersection of survival analysis and causal inference, with applications to kidney diseases. In these projects, I performed data processing and conducted statistical analyses to: measure causal effects of transplant centers, investigate the impact of multiple waitlisting on survival, and evaluate a novel prognostic-score based weighting method for transplant center evaluation.
+I worked as a research assistant to [Dr. Douglas Schaubel](https://www.dbei.med.upenn.edu/bio/douglas-e-schaubel-phd) at the University of Pennsylvania, conducting research in the intersection of survival analysis and causal inference, with applications to kidney diseases. In these projects, I performed data processing and conducted statistical analyses to: measure causal effects of transplant centers, investigate the impact of multiple waitlisting on survival, and evaluate a novel prognostic-score based weighting method for transplant center evaluation.
 
 One project was to evaluate the impact of receiving organs from deceased-donors with Hepatitis C Virus (HCV) positive on post-transplant survival ([Schaubel et al., 2022](https://jamanetwork.com/journals/jama/article-abstract/2795744)). Patients are unweighted in the HCV- group. To address confounding in the HCV+ group, we derived a two-dimensional prognostic score, one for donors risk and one for recipients risk. The donor-associated risk score is the continuous kidney donor risk index ([KDRI](https://journals.lww.com/transplantjournal/Fulltext/2009/07270/A_Comprehensive_Risk_Quantification_Score_for.13.aspx)) while the recipient-associated risk is the [prognostic score](https://academic.oup.com/biomet/article/95/2/481/230183) estimated from the center-stratified Cox model with recipient characteristics. The two-dimensional score is then used to classify patients into risk classes, from which we obtained individual weights to generate weighted Nelson-Aalen survival curves and log-rank tests. 
 
@@ -29,7 +29,7 @@ Quantifying physical activity through accelerometry data from wearable devices
 ---	
 During my internship at Regeneron, I worked with [accelerometry data](https://link.springer.com/article/10.1007/s12561-018-9227-2) from wearable devices under the mentorship of [Dr. Jacek Urbanek](https://scholar.google.com/citations?user=5X-it4IAAAAJ) and [Debra McIntyre](https://www.researchgate.net/scientific-contributions/Debra-A-Goldman-59078225/publications/2). My project focused on quantifying physical activity characteristics of minute-level accelerometry data from National Health and Nutrition Examination Survey (NHANES) and Regeneron clinical trials with the [arctools](https://cran.r-project.org/web/packages/arctools/arctools.pdf) package. We investigated NHANES as a study sample with the goal to create a pipeline for digital biomarker development for national population.
 
-Wearable devices provide objective measurements of physical activity through an accelerometer that measures physical acceleration amplitude in gravitational units. Raw data is collected in a 3D time series format, along three orthogonal axes corresponding to the device's reference frame of up-down, left-right, and backward-downward. These raw data is usually collected at sub-second level and aggregated into minute-level data. There are several open-source reproducible metrics to summarize this minute-level data in non-overlapping time windows: Monitor Independent Movement Summary (MIMS), Euclidean Norm Minus One (ENMO), and Vector Magnitude Count (VMC), etc. In this project, I quantified minute-level accelerometry data from NHANES on MIMS scale for physical activity summaries and performed [harmonization mapping](https://pubmed.ncbi.nlm.nih.gov/35867392/) on internal clinical data for comparison purposes. 
+Wearable devices provide objective measurements of physical activity through an accelerometer in gravitational units. Raw data is collected in a 3D time series format, along three orthogonal axes corresponding to the device's reference frame of up-down, left-right, and backward-downward at sub-second level. These raw data is then aggregated into minute-level data and summarized by open-source reproducible metrics in non-overlapping time windows: Monitor Independent Movement Summary (MIMS), Euclidean Norm Minus One (ENMO), and Vector Magnitude Count (VMC), etc. In this project, I quantified minute-level accelerometry data from NHANES on MIMS scale for physical activity summaries and performed [harmonization mapping](https://pubmed.ncbi.nlm.nih.gov/35867392/) on internal clinical data for comparison purposes. 
 
 
 Simulating wave propagation with physics-informed neural networks models  
