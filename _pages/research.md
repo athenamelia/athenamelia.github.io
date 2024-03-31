@@ -11,16 +11,15 @@ Currently at Genentech, I provide statistical analysis and computational support
 
 Besides these therapeutic molecules, I also support computational tool and study design through cross-departmental collaboration. In particular:
 
-- With [Daniel Sjoberg](https://www.danieldsjoberg.com/): I co-develop the [*admiraldiscovery*](https://pharmaverse.github.io/admiraldiscovery/index.html) website, which documents the functionality of the **admiral** family of packages, a collection of open-source R packages for clinical reporting as part of the [pharmaverse](https://pharmaverse.org/) movement across biotech/pharmaceutical industry.
-
-- With [Matt Secrest](https://mattsecrest.com/): I conduct simulation studies with clone-censor-weight ([CCW](https://academic.oup.com/ije/article/49/5/1719/5835351)) and landmark analyses for target trial emulation. We compare results for survival data under different study scenarios to suggest situations where CCW use can be optimal. 
+* With [Daniel Sjoberg](https://www.danieldsjoberg.com/): I co-develop the [*admiraldiscovery*](https://pharmaverse.github.io/admiraldiscovery/index.html) website, which documents the functionality of the **admiral** family of packages, a collection of open-source R packages for clinical reporting as part of the [pharmaverse](https://pharmaverse.org/) movement across biotech/pharmaceutical industry.
+* With [Matt Secrest](https://mattsecrest.com/): I conduct simulation studies with clone-censor-weight ([CCW](https://academic.oup.com/ije/article/49/5/1719/5835351)) and landmark analyses for target trial emulation. We compare results for survival data under different study scenarios to suggest situations where CCW use can be optimal. 
 
 On the side, I take on different seminar co-host and session co-lead roles with efforts to facilitating knowledge sharing and enhancing internal workflow across Genentech/Roche Data and Statistical Sciences:
 
-- Co-lead Git/Gitlab training session on internal workflow for Analytical Data Scientists 
-- On-board study teams with molecule migration into Next Generation R-based tools and systems
-- Co-host internal North America Data Sciences Forum (NADF) meetings for Genentech SSF/Roche Mississauga
-- Co-host internal Genentech Research and Early Development (gRED) Oncology Analytical Data Science meetings
+* Co-lead Git/Gitlab training session on internal workflow for Analytical Data Scientists 
+* On-board study teams with molecule migration into Next Generation R-based tools and systems
+* Co-host internal North America Data Sciences Forum (NADF) meetings for Genentech SSF/Roche Mississauga
+* Co-host internal Genentech Research and Early Development (gRED) Oncology Analytical Data Science meetings
 
 
 Estimating causal effects of organ quality and health policies in kidney transplants
