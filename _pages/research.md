@@ -7,9 +7,20 @@ author_profile: yes
 
 Hematology, ophthalmology, and more!
 ---	
-Currently at Genentech, I provide statistical analysis and computational support to hematology and ophthalmology studies. My past and current projects include phase Ib, Ib/II, III clinical trials to study Mosunetuzumab, Glofitamab, Tiragolumab, Atezolizumab, and Satralizumab in patients with relapsed or refractory B-cell non-hodgkin lymphoma (NHL) and moderate-to-severe thyroid eye disease (TED). Besides these therapeutic molecules, I also support computational tool and study design development through collaboration. In particular:
+Currently at Genentech, I provide statistical analysis and computational support to hematology and ophthalmology studies. My past and current projects include phase Ib, Ib/II, III clinical trials to study different combinations of Mosunetuzumab, Glofitamab, Tiragolumab, Atezolizumab, and Satralizumab in patients with relapsed or refractory B-cell non-hodgkin lymphoma (NHL) and moderate-to-severe thyroid eye disease (TED). My main responsibilities include managing SDTM mapping, ADaM variable derivation and quality control, and TLG delivery to clinical science, pharmacology, regulatory teams across Genentech/Roche Product Development. 
 
-- With [Daniel Sjoberg](https://www.danieldsjoberg.com/): I co-develop the [admiraldiscovery](https://pharmaverse.github.io/admiraldiscovery/index.html) website, which documents the functionality of the **admiral** family of packages, a collection of open-source R packages for clinical reporting as part of the [pharmaverse movement](https://pharmaverse.org/) across biotech/pharmaceutical industry.
+Besides these therapeutic molecules, I also support computational tool and study design through cross-departmental collaboration. In particular:
+
+- With [Daniel Sjoberg](https://www.danieldsjoberg.com/): I co-develop the [*admiraldiscovery*](https://pharmaverse.github.io/admiraldiscovery/index.html) website, which documents the functionality of the **admiral** family of packages, a collection of open-source R packages for clinical reporting as part of the [pharmaverse](https://pharmaverse.org/) movement across biotech/pharmaceutical industry.
+
+- With [Matt Secrest](https://mattsecrest.com/): I conduct simulation studies with clone-censor-weight ([CCW](https://academic.oup.com/ije/article/49/5/1719/5835351)) and landmark analyses for target trial emulation. We compare results for survival data under different study scenarios to suggest situations where CCW use can be optimal. 
+
+On the side, I take on different seminar co-host and session co-lead roles with efforts to facilitating knowledge sharing and enhancing internal workflow across Genentech/Roche Data and Statistical Sciences:
+
+- Co-lead Git/Gitlab training session on internal workflow for Analytical Data Scientists 
+- On-board study teams with molecule migration into Next Generation R-based tools and systems
+- Co-host internal North America Data Sciences Forum (NADF) meetings for Genentech SSF/Roche Mississauga
+- Co-host internal Genentech Research and Early Development (gRED) Oncology Analytical Data Science meetings
 
 
 Estimating causal effects of organ quality and health policies in kidney transplants
@@ -28,7 +39,7 @@ Wearable devices provide objective measurements of physical activity through an 
 
 Simulating wave propagation with physics-informed neural networks models  
 ---	
-In summer 2021, I had the opportunity to participate in the [RIPS](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2024-los-angeles/) program at Institute for Pure and Applied Mathematics ([IPAM](https://www.ipam.ucla.edu/)), an NSF Math Institute at UCLA. I was assigned in a team of five working under the supervision of [Dr. Laurent White](https://scholar.google.com/citations?user=Q_ieoIsAAAAJ&hl=en) and [Dr. Kyung Ha](https://kyung-ha.gitlab.io/website/) to develop physics-informed neural networks ([PINN](https://towardsdatascience.com/physics-informed-neural-networks-pinns-an-intuitive-guide-fff138069563?gi=5ad447efc0df)) to simulate wave propagation with computational efficiency. Our project was sponsored by Advanced Micro Devices Inc. ([AMD](https://www.amd.com/en.html)).
+In summer 2021, I had the opportunity to participate in the [RIPS](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2024-los-angeles/) program at [Institute for Pure and Applied Mathematics](https://www.ipam.ucla.edu/), an NSF Math Institute at UCLA. I was assigned in a team of five working under the supervision of Dr. Laurent White and Dr. Kyung Ha to develop physics-informed neural networks ([PINN](https://towardsdatascience.com/physics-informed-neural-networks-pinns-an-intuitive-guide-fff138069563?gi=5ad447efc0df)) to simulate wave propagation with computational efficiency. Our project was sponsored by Advanced Micro Devices Inc. ([AMD](https://www.amd.com/en.html)).
 
 Machine learning surrogate models are widely used for engineering applications thanks to the attractive computational efficiency property. However, these models suffer from a lack of extrapolation accuracy. To design an optimal network architecture to simulate wave, we embedded physics constraints, ie. PDEs of the wave equation and initial/boundary conditions, into the loss function for regularization. In addition, we sampled unlabeled input values for model training to reduce the cost of data acquisition, and extrapolated in time for acoustic wave and in space from different source locations. We presented our work at the RIPS symposium, the AMD headquarter in Santa Clara, and the Joint Mathematics Meeting 2021. 
 
