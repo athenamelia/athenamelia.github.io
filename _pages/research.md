@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: yes
 ---
 
-What it's like to work in clinical drug development in biopharma!
+What it's like to work in biopharma!
 ---	
 Currently at Genentech, I provide statistical analysis and computational support to different therapeutic areas, currently in hematology and ophthalmology. My past and current projects include phase Ib, Ib/II, III clinical trials to study treatment effects of Mosunetuzumab, Glofitamab, Tiragolumab, Atezolizumab, and Satralizumab combination in patients with relapsed or refractory B-cell non-hodgkin lymphoma and moderate-to-severe thyroid eye disease. My main responsibilities include SDTM mapping, performing ADaM variable derivation and quality control, and delivering TLG output to clinical science teams across Genentech/Roche Product Development. 
 
@@ -19,7 +19,6 @@ On the side, I take on different seminar co-host and session co-lead roles with 
 * Co-lead Git/Gitlab training session on internal workflow for Analytical Data Scientists 
 * On-board study teams with molecule migration into Next Generation R-based tools and systems
 * Co-host internal North America Data Sciences Forum (NADF) meetings for Genentech SSF/Roche Mississauga
-* Co-host internal Genentech Research and Early Development (gRED) Oncology Analytical Data Science meetings
 
 
 Estimating causal effects of organ quality and health policies in kidney transplants
