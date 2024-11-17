@@ -13,8 +13,8 @@ Peer-Reviewed Publications
 "Multiple listing in kidney transplantation following implementation of the concentric circle kidney allocation policy".  
 VS Potluri, **AH Tran**, N Kye, N Al Haddad, S Tandukar, TB Dunn, P Reese, DE Schaubel. 2024+
 
-"Prognostic score-based methods for estimating center effects based on survival probability: Application to postkidney transplant survival".  
-Y Lee, PP Reese, **AH Tran**, DE Schaubel. Accepted to *Statistics in Medicine* 2024.  
+["Prognostic score-based methods for estimating center effects based on survival probability: Application to postkidney transplant survival".](https://pubmed.ncbi.nlm.nih.gov/38780593/) 
+Statistics in Medicine 2024. Y Lee, PP Reese, **AH Tran**, DE Schaubel. 
 
 
 ["Five-Year Allograft Survival for Recipients of Kidney Transplants From Hepatitis C Virus Infected vs Uninfected Deceased Donors in the Direct-Acting Antiviral Therapy Era."](https://jamanetwork.com/journals/jama/fullarticle/2795744)  
@@ -29,7 +29,7 @@ Davini D\*, Samineni B\*, Thomas B\*, **Tran AH\*,** Zhu C\*, Ha K, Dasika G, Wh
 Academic theses
 ---
 
-["Evaluating a Facility-Profiling Metric based on Survival Probability: Application to U.S. Transplant Centers."](/files/portfolio/Tran_MS_thesis.pdf)  
+Evaluating a Facility-Profiling Metric based on Survival Probability: Application to U.S. Transplant Centers.  
 University of Pennsylvania Perelman School of Medicine Masters Thesis. May 2023. **Tran AH**.
 
 
