@@ -7,9 +7,13 @@ author_profile: yes
 
 Supporting drug development in biotech/pharma 
 ---	
-At Genentech, I provide statistical and computational support to different therapeutic areas. My past and current studies include phase Ib, Ib/II, III clinical trials under Mosunetuzumab, Glofitamab, and Satralizumab molecules in hematology, pediatrics, and ophthalmology. My main responsibilities include SDTM mapping, ADaM derivation and TLG generation by [CDISC standards](https://www.cdisc.org/standards/foundational) across Genentech/Roche Product Development. 
+At Genentech, I provide statistical and computational support to different therapeutic areas. My past and current studies include phase Ib, Ib/II, III clinical trials under Mosunetuzumab, Glofitamab, and Satralizumab molecules in hematology, pediatrics, and ophthalmology. My main responsibilities include SDTM mapping, ADaM derivation and TLG generation by [CDISC standards](https://www.cdisc.org/standards/foundational) delivered to clinical science teams across Genentech/Roche Product Development. I also build R-Shiny applications for clinical exploratory purposes, ie. examine cytokine-release syndrome in patients with B-cell non-Hodgkin lymphoma or patient characteristics in thyroid eye diseases. 
 
-On the side, I co-develop [admiraldiscovery](https://pharmaverse.github.io/admiraldiscovery/index.html) that documents the functionality of admiral family of packages as part of [Pharmaverse](https://pharmaverse.org/) movement for clinical reporting, support trial designs through real-world evidence, and co-lead Git/GitLab training workshops to facilitate internal data science workflow. I also build R-Shiny applications for clinical exploratory purposes, particularly to investigate cytokine-release syndrome in patients with B-cell non-Hodgkin lymphoma or examine patient characteristics in thyroid eye diseases. 
+Besides these therapeutic molecules, I co-develop [*admiraldiscovery*](https://pharmaverse.github.io/admiraldiscovery/index.html) which documents the functionality of the *admiral* family of packages as part of [Pharmaverse](https://pharmaverse.org/) movement for clinical reporting across biotech/pharma industry, and support trial designs through real-world evidence. On the side, I take on different roles to facilitate knowledge sharing and enhance internal workflow across Genentech/Roche Data Sciences: 
+
+* Co-lead Git/Gitlab training session on internal workflow for Analytical Data Scientists 
+* On-board study teams with molecule migration into new R-based tools and systems
+* Co-host internal North America Data Sciences Forum (NADF) meetings for Genentech SSF/Roche Mississauga
 
 Estimating causal effects of organ quality and health policies in kidney transplants
 ---	
