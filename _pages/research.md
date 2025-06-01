@@ -7,14 +7,14 @@ author_profile: yes
 
 Supporting drug development in biotech/pharma 
 ---	
-At Genentech, I provide statistical and computational support to different therapeutic areas. My past and current studies include phase Ib, Ib/II, III clinical trials under Mosunetuzumab, Glofitamab, and Satralizumab molecules across oncology, hematology, pediatrics, and ophthalmology. My main responsibilities include ADaM derivation, and TLG generation by [CDISC standards](https://www.cdisc.org/standards/foundational) delivered to clinical science teams across Genentech/Roche Product Development. In these studies, I also create R-Shiny applications for clinical exploratory purposes, ie. examine cytokine-release syndrome in B-cell non-Hodgkin lymphoma patients. 
+At Genentech/Roche, I provide statistical and computational support for drug development across therapeutic areas. My past and current studies include phase Ib, Ib/II, IIb, III clinical trials under Mosunetuzumab, Glofitamab, Satralizumab, and Astegolimab molecules where I work on SDTM/ADaM derivation and TLG generation by [CDISC standards](https://www.cdisc.org/standards/foundational); perform sensitivity and ad-hoc analyses; and create R-Shiny apps for different activities: iDMC, DSUR, SREP, CSR, and other regulatory requests.
 
 Through collaboration, I co-develop [*admiraldiscovery*](https://pharmaverse.github.io/admiraldiscovery/index.html) which documents functionality of the *admiral* family of packages as part of the [Pharmaverse](https://pharmaverse.org/) movement across biotech/pharma industry, support trial designs with real-world evidence, and conduct biomarker analyses in follicular lymphoma to identify genetic clustering. On the side, I take on different roles to facilitate knowledge sharing and enhance internal workflow across Genentech/Roche Data Sciences: 
 
-* Coordinate summer and long-term internship programs in Data and Statistical Science department
+* Coordinate summer and long-term internship programs in the Data and Statistical Science (DSS) department
 * Co-lead Git/Gitlab training workshops on internal workflow for Analytical Data Scientists 
 * On-board study teams with molecule migration into new R-based tools and systems
-* Co-host internal North America Data Sciences Forum (NADF) meetings for Genentech SSF/Roche Mississauga
+* Co-host internal North America Data Sciences Forum (NADF) meetings for Genentech/Roche Canada
 
 Estimating causal effects of organ quality and health policies in kidney transplants
 ---	
@@ -48,6 +48,6 @@ During my senior year, I completed this project as my [honors thesis](/files/tal
 
 Developing hierarchical Archimedean copula models for dependent data
 ---	
-In summer 2019, I conducted my first statistical research in copula under the supervision of [Dr. Evan Ray](https://www.umass.edu/public-health-sciences/about/directory/evan-l-ray) at Mount Holyoke College. [Copula](https://en.wikipedia.org/wiki/Copula_(probability_theory)) is a joint function used to measure the dependency between random bivariates and is widely used in time series modeling. The goal of the project was to construct Archimedean copula trees with different nesting structures to develop an Archimedean random forest.
+In summer 2019, I conducted my first statistical research in copula under the supervision of [Dr. Evan Ray](https://www.evanlray.com/) at Mount Holyoke College. [Copula](https://en.wikipedia.org/wiki/Copula_(probability_theory)) is a joint function used to measure the dependency between random bivariates and is widely used in time series modeling. The goal of the project was to construct Archimedean copula trees with different nesting structures to develop an Archimedean random forest.
 
 Intuitively, the more correlated covariates are grouped closer to the bottom of a nested copula tree. However, we can introduce flexibility into the tree structure by varying the number of covariates in each node, or assigning different copula families, ie. Frank, Gumbel, Clay, etc. for each node depending on its correlation property. In this project, I developed the *ncopula* R package, which calculates the probability density function and cumulative distribution function to estimate parameters of nested Archimedean copulas with maximum likelihood estimation. Additionally, I provided supplementary functions for mathematical transformations, designed unit tests for estimation stability checking, and collaborated on Github platform. 
