@@ -11,7 +11,7 @@ At Genentech/Roche, I provide statistical and computational support for drug dev
 
 Through collaboration, I co-develop [*admiraldiscovery*](https://pharmaverse.github.io/admiraldiscovery/index.html) which documents functionality of the *admiral* family of packages as part of the [Pharmaverse](https://pharmaverse.org/) movement across biotech/pharma industry, support trial designs with real-world evidence, and conduct biomarker analyses in follicular lymphoma to identify genetic clustering. On the side, I take on different roles to facilitate knowledge sharing and enhance internal workflow across Genentech/Roche Data Sciences: 
 
-* Coordinate summer and long-term internship programs in the Data and Statistical Science (DSS) department
+* Coordinate summer and long-term internship programs in the Data and Statistical Science (DSS) division
 * Co-lead Git/Gitlab training workshops on internal workflow for Analytical Data Scientists 
 * On-board study teams with molecule migration into new R-based tools and systems
 * Co-host internal North America Data Sciences Forum (NADF) meetings for Genentech/Roche Canada
