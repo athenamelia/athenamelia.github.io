@@ -7,7 +7,7 @@ author_profile: yes
 
 Supporting drug development in biotech/pharma 
 ---	
-At Genentech/Roche, I provide statistical and computational support for drug development across therapeutic areas. My past and current studies include phase Ib, Ib/II, IIb, III clinical trials under Mosunetuzumab, Glofitamab, Satralizumab, and Astegolimab molecules where I work on SDTM/ADaM derivation and TLG generation by [CDISC standards](https://www.cdisc.org/standards/foundational); perform futility, sensitivity and ad-hoc analyses; and create R-Shiny apps for different activities: iDMC, DSUR, SREP, CSR, and other regulatory requests.
+At Genentech/Roche, I provide statistical and computational support for drug development across therapeutic areas. My past and current studies include Mosunetuzumab, Glofitamab, Satralizumab, and Astegolimab molecules where I work on SDTM/ADaM/TLG derivation by [CDISC standards](https://www.cdisc.org/standards/foundational); perform futility, sensitivity and ad-hoc analyses; and create R-Shiny apps for different activities: iDMC, DSUR, SREP, CSR, and other regulatory requests.
 
 Through collaboration, I co-develop [*admiraldiscovery*](https://pharmaverse.github.io/admiraldiscovery/index.html) which documents functionality of the *admiral* family of packages as part of the [Pharmaverse](https://pharmaverse.org/) movement across biotech/pharma industry, support trial designs with real-world evidence, and conduct biomarker analyses in follicular lymphoma to identify genetic clustering. On the side, I take on different roles to facilitate knowledge sharing and enhance internal workflow across Genentech/Roche Data Sciences: 
 
